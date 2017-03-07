@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/EchoNine/Linux-cheats/blob/master/teensy-d.png">
+<img src="https://github.com/EchoNine/L1nux-che4ts/blob/master/teensy-d.png">
 </p>
 
 
